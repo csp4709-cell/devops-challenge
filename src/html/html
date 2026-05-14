@@ -1,0 +1,7 @@
+cat > src/html/index.html << 'EQF'
+<!DOCTYPE html>
+<html>
+<head><title>DEVOPS TEST</tilte></head>
+<body><h1>Hello World</h1></body>
+</html>
+EQF

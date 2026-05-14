@@ -1,0 +1,7 @@
+cat > .gitignore << "EQF"
+.DS_Store
+*.log
+logs/'
+backup/
+dist/
+EQF
